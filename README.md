@@ -1,2 +1,2 @@
-# Vexirayalbright.github.io
+# vexirayalbright.github.io
 PeaceTalks with Vex
